@@ -1,2 +1,1 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+Basic app displaying movie trailers using Python.
